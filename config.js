@@ -1,7 +1,7 @@
 module.exports = {
         px: '!',
-        token: '', //DİSCORD BOTUNUZUN TOKENİNİ YAZIN
-        playing: 'Umut Bayraktar ❤️ Müzik Botu',
+        token: '', 
+        playing: 'Xeus Müzik Botu',
 
     opt: {
         DJ: {
